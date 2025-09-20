@@ -1,0 +1,50 @@
+/* Estilos llamativos */
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+  font-style: italic; /* texto en cursiva */
+  background-color: #fff8dc; /* un fondo claro cálido */
+}
+
+header {
+  background-color: #ff5722; /* naranja intenso */
+  color: white;
+  padding: 10px;
+}
+
+nav {
+  background-color: #4caf50; /* verde brillante */
+  padding: 10px;
+}
+
+main {
+  background-color: #e1bee7; /* lila suave */
+  font-size: 18px;
+  padding: 15px;
+}
+
+footer {
+  background-color: #2196f3; /* azul vibrante */
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  width: 150px;
+  font-style: italic; /* lista en cursiva */
+  color: #d500f9; /* morado fuerte */
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Comic Sans MS', cursive; /* fuente divertida */
+  font-style: italic;
+  color: #e91e63; /* rosa fuerte */
+}
+
+p {
+  line-height: 1.8;
+  color: #212121; /* gris oscuro */
+}
